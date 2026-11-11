@@ -34,16 +34,22 @@ We are a non-profit, vendor-neutral community that helps people learn, practice,
 
 A single, sourced reference for the whole identity field:
 
-- 🏢 **[Vendor directory](https://startwithidentity.com/vendors/)**: 290+ vendor profiles across 17 categories (IAM, CIAM, PAM, IGA, MFA, ITDR, CIEM, secrets, machine identity, decentralized identity, and more), each scored on a 10-dimension rubric.
-- ⚖️ **[Rankings](https://startwithidentity.com/rankings/)** and **[Comparisons](https://startwithidentity.com/compare/)**: 49 use-case rankings and head-to-head vendor comparisons.
-- 📚 **[Guides](https://startwithidentity.com/guides/)**: 80+ fundamentals, buyer guides, and implementation playbooks.
-- 📖 **[Glossary](https://startwithidentity.com/glossary/)**: 120+ plain-language definitions of identity and security terms.
-- 📐 **[Standards](https://startwithidentity.com/standards/)**: deep dives on OAuth, OIDC, SAML, SCIM, WebAuthn/FIDO2, Verifiable Credentials, DIDs, OpenID4VC, mDL, and eIDAS 2.
-- 🪪 **[Digital IDs by country](https://startwithidentity.com/digital-ids/)** and **[Regulations](https://startwithidentity.com/regulations/)**: national eID schemes across 51 countries and the identity rules that govern them.
-- 🧩 **[Breaches](https://startwithidentity.com/breaches/)**, **[Reports](https://startwithidentity.com/reports/)**, **[Research](https://startwithidentity.com/research/)**: identity incident teardowns and sourced data for practitioners.
-- 🛠️ **[Tools](https://startwithidentity.com/tools/)** and **[Templates](https://startwithidentity.com/templates/)**: maturity assessment, TCO calculator, checklists, and runbooks.
+- 🏢 **[Vendor directory](https://startwithidentity.com/vendors/)**: nearly 300 vendor profiles across 17 categories (IAM, CIAM, PAM, IGA, MFA, ITDR, CIEM, secrets, machine and AI agent identity, decentralized identity, and more), each scored on a 10-dimension rubric, plus an [acquisitions tracker](https://startwithidentity.com/acquisitions/).
+- ⚖️ **[Rankings](https://startwithidentity.com/rankings/)** and **[Comparisons](https://startwithidentity.com/compare/)**: 50 use-case rankings and 70+ head-to-head vendor comparisons.
+- 📚 **[Guides](https://startwithidentity.com/guides/)**: 90+ fundamentals, buyer guides, career guides, and implementation playbooks.
+- 📖 **[Glossary](https://startwithidentity.com/glossary/)**: 210+ plain-language definitions of identity and security terms.
+- 📐 **[Standards](https://startwithidentity.com/standards/)**: 20+ deep dives covering OAuth 2.0 and 2.1, OIDC, SAML, SCIM, WebAuthn/FIDO2, Shared Signals, AuthZEN, Transaction Tokens, WIMSE, MCP authorization, Verifiable Credentials, DIDs, OpenID4VC, mDL, and eIDAS 2.
+- 🪪 **[Digital IDs by country](https://startwithidentity.com/digital-ids/)** and **[Regulations](https://startwithidentity.com/regulations/)**: national eID schemes across 59 countries and 60+ identity regulations.
+- 🧩 **[Breaches](https://startwithidentity.com/breaches/)**, **[Reports](https://startwithidentity.com/reports/)**, **[Research](https://startwithidentity.com/research/)**: identity incident teardowns, a catalog of 130+ identity-related CVEs, attack techniques, and sourced data for practitioners.
+- 🛠️ **[Tools](https://startwithidentity.com/tools/)** and **[Templates](https://startwithidentity.com/templates/)**: maturity assessment, TCO calculator, checklists, runbooks, and hands-on [recipes](https://startwithidentity.com/recipes/).
 - 📰 **[News](https://startwithidentity.com/blog/category/news/)** and **[Blog](https://startwithidentity.com/blog/)**: daily curated identity news and community analysis, with RSS feeds.
 - 🎓 **[Start here](https://startwithidentity.com/start-here/)** and **[Resources](https://startwithidentity.com/resources/)**: a guided learning path and a curated external library.
+- 🎙️ **[Podcasts](https://startwithidentity.com/podcasts/)**, **[Conferences](https://startwithidentity.com/conferences/)**, and **[Experts](https://startwithidentity.com/experts/)**: the shows, events, and people shaping identity.
+
+## Open source on GitHub
+
+- 📋 **[awesome-identity](https://github.com/start-with-identity/awesome-identity)**: a curated, vendor-neutral list of identity standards, open-source projects, security research, vendors, and learning resources. Data-driven and open to pull requests.
+- 💬 **[iam-interview-questions](https://github.com/start-with-identity/iam-interview-questions)**: a community bank of IAM interview questions with model-answer notes, from junior to architect.
 
 ## For the community
 
@@ -57,8 +63,9 @@ A single, sourced reference for the whole identity field:
 We welcome practitioners of every level. You can help by:
 
 1. Suggesting corrections or additions to guides, glossary terms, or vendor profiles.
-2. Curating IAM news and jobs for your region.
-3. Volunteering for one of the open community roles above.
+2. Adding resources to [awesome-identity](https://github.com/start-with-identity/awesome-identity) or questions to [iam-interview-questions](https://github.com/start-with-identity/iam-interview-questions).
+3. Curating IAM news and jobs for your region.
+4. Volunteering for one of the open community roles above.
 
 Start at the **[community page](https://startwithidentity.com/community/)** or **[reach out](https://startwithidentity.com/contact/)**. Contributions are credited by name.
 
